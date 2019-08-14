@@ -85,9 +85,7 @@ public class Ingreso extends javax.swing.JFrame {
         setBackground(new java.awt.Color(255, 255, 255));
         setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         setIconImages(null);
-        setMaximumSize(null);
         setMinimumSize(null);
-        setPreferredSize(new java.awt.Dimension(1024, 600));
         setResizable(false);
         setSize(new java.awt.Dimension(1024, 600));
 
@@ -166,7 +164,7 @@ public class Ingreso extends javax.swing.JFrame {
         jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/jlogo.png"))); // NOI18N
 
         jLabel5.setFont(new java.awt.Font("Century Gothic", 1, 13)); // NOI18N
-        jLabel5.setText("v16.01.2019 ");
+        jLabel5.setText("v16.01.2010 ");
 
         btn_configurar.setBackground(new java.awt.Color(255, 255, 255));
         btn_configurar.setFont(new java.awt.Font("Century Gothic", 0, 14)); // NOI18N
