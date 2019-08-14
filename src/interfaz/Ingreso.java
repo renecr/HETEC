@@ -164,7 +164,7 @@ public class Ingreso extends javax.swing.JFrame {
         jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/jlogo.png"))); // NOI18N
 
         jLabel5.setFont(new java.awt.Font("Century Gothic", 1, 13)); // NOI18N
-        jLabel5.setText("v16.01.2010 ");
+        jLabel5.setText("v16.01.2019 ");
 
         btn_configurar.setBackground(new java.awt.Color(255, 255, 255));
         btn_configurar.setFont(new java.awt.Font("Century Gothic", 0, 14)); // NOI18N
